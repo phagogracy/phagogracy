@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @phagogracy
 - 👀 I’m interested in software development.
-- 🌱 I’m currently learning basic programming.
+- 🌱 I’m currently learning programming's basic.
 - 💞️ I’m looking to collaborate with someone who is just as beginner as me.
 - 📫 How to reach me ? just reach me anyhow
 
